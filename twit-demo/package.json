@@ -1,0 +1,17 @@
+{
+  "name": "twit-demo",
+  "version": "1.0.0",
+  "description": "My sample of twiter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",	  
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "twit",
+    "sample"
+  ],
+  "author": "e2a",
+  "license": "ISC"
+}
